@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
   viewContainer: {
     flex: 1,
     flexDirection: 'column',
-    justifyContent: 'flex-start',
+    justifyContent: 'center',
     alignItems: 'center',
     marginTop: 20,
   }

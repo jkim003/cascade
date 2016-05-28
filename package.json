@@ -3,8 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start",
-    “build-css”: “node-sass --include-path scss scss/main.scss   public/css/main.css”
+    "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
     "node-sass": "^3.7.0",
