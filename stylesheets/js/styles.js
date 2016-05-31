@@ -16,11 +16,27 @@ export default StyleSheet.create({
     "viewContainer": {
         "flex": 1,
         "flexDirection": "column",
+        "justifyContent": "flex-start",
+        "alignItems": "flex-start"
+    },
+    "personRow": {
+        "flex": 1,
         "justifyContent": "center",
         "alignItems": "center",
-        "marginTop": 20,
-        "marginRight": 20,
-        "marginBottom": 20,
-        "marginLeft": 20
+        "backgroundColor": "mistyrose",
+        "paddingTop": 5,
+        "paddingRight": 5,
+        "paddingBottom": 5,
+        "paddingLeft": 5,
+        "marginTop": 5,
+        "marginRight": 5,
+        "marginBottom": 5,
+        "marginLeft": 5
+    },
+    "personName": {
+        "color": "skyblue"
+    },
+    "personMoreIcon": {
+        "color": "red"
     }
 });
