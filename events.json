@@ -38,26 +38,6 @@
                     "ticketTypeName": "Basic Ticket"
                 },
                 {
-                    "FirstName": "Jacobson",
-                    "LastName": "Gibbs",
-                    "email": "jacobson.gibbs@rodeology.com",
-                    "status": "Registered",
-                    "registrationDate": "2015-01-23",
-                    "registrationTotal": 10,
-                    "ticketType": "a2if4000002zPsIAAU",
-                    "ticketTypeName": "Basic Ticket"
-                },
-                {
-                    "FirstName": "Roseann",
-                    "LastName": "Mcfadden",
-                    "email": "roseann.mcfadden@snorus.com",
-                    "status": "Registered",
-                    "registrationDate": "2018-08-27",
-                    "registrationTotal": 10,
-                    "ticketType": "a2if4000002zPsIAAU",
-                    "ticketTypeName": "Basic Ticket"
-                },
-                {
                     "FirstName": "Mcknight",
                     "LastName": "Tyson",
                     "email": "mcknight.tyson@cemention.com",
@@ -67,16 +47,6 @@
                     "ticketType": "a2if4000002zPsIAAU",
                     "ticketTypeName": "Basic Ticket"
                 },
-                {
-                    "FirstName": "Rose",
-                    "LastName": "Solis",
-                    "email": "rose.solis@harmoney.com",
-                    "status": "Registered",
-                    "registrationDate": "2015-12-09",
-                    "registrationTotal": 10,
-                    "ticketType": "a2if4000002zPsIAAU",
-                    "ticketTypeName": "Basic Ticket"
-                }
             ]
         },
         {
@@ -101,16 +71,6 @@
             "bannerImageUrl": null,
             "attendees": [
                 {
-                    "FirstName": "Vilma",
-                    "LastName": "Martin",
-                    "email": "vilma.martin@olucore.com",
-                    "status": "Registered",
-                    "registrationDate": "2014-05-22",
-                    "registrationTotal": 10,
-                    "ticketType": "a2if4000002zPsIAAU",
-                    "ticketTypeName": "Basic Ticket"
-                },
-                {
                     "FirstName": "Jacobson",
                     "LastName": "Gibbs",
                     "email": "jacobson.gibbs@rodeology.com",
@@ -136,16 +96,6 @@
                     "email": "mcknight.tyson@cemention.com",
                     "status": "Registered",
                     "registrationDate": "2014-06-20",
-                    "registrationTotal": 10,
-                    "ticketType": "a2if4000002zPsIAAU",
-                    "ticketTypeName": "Basic Ticket"
-                },
-                {
-                    "FirstName": "Rose",
-                    "LastName": "Solis",
-                    "email": "rose.solis@harmoney.com",
-                    "status": "Registered",
-                    "registrationDate": "2015-12-09",
                     "registrationTotal": 10,
                     "ticketType": "a2if4000002zPsIAAU",
                     "ticketTypeName": "Basic Ticket"
@@ -257,26 +207,6 @@
                     "ticketTypeName": "Basic Ticket"
                 },
                 {
-                    "FirstName": "Jacobson",
-                    "LastName": "Gibbs",
-                    "email": "jacobson.gibbs@rodeology.com",
-                    "status": "Registered",
-                    "registrationDate": "2015-01-23",
-                    "registrationTotal": 10,
-                    "ticketType": "a2if4000002zPsIAAU",
-                    "ticketTypeName": "Basic Ticket"
-                },
-                {
-                    "FirstName": "Roseann",
-                    "LastName": "Mcfadden",
-                    "email": "roseann.mcfadden@snorus.com",
-                    "status": "Registered",
-                    "registrationDate": "2018-08-27",
-                    "registrationTotal": 10,
-                    "ticketType": "a2if4000002zPsIAAU",
-                    "ticketTypeName": "Basic Ticket"
-                },
-                {
                     "FirstName": "Mcknight",
                     "LastName": "Tyson",
                     "email": "mcknight.tyson@cemention.com",
@@ -350,16 +280,6 @@
                     "ticketTypeName": "Basic Ticket"
                 },
                 {
-                    "FirstName": "Mcknight",
-                    "LastName": "Tyson",
-                    "email": "mcknight.tyson@cemention.com",
-                    "status": "Registered",
-                    "registrationDate": "2014-06-20",
-                    "registrationTotal": 10,
-                    "ticketType": "a2if4000002zPsIAAU",
-                    "ticketTypeName": "Basic Ticket"
-                },
-                {
                     "FirstName": "Rose",
                     "LastName": "Solis",
                     "email": "rose.solis@harmoney.com",
@@ -398,46 +318,6 @@
                     "email": "vilma.martin@olucore.com",
                     "status": "Registered",
                     "registrationDate": "2014-05-22",
-                    "registrationTotal": 10,
-                    "ticketType": "a2if4000002zPsIAAU",
-                    "ticketTypeName": "Basic Ticket"
-                },
-                {
-                    "FirstName": "Jacobson",
-                    "LastName": "Gibbs",
-                    "email": "jacobson.gibbs@rodeology.com",
-                    "status": "Registered",
-                    "registrationDate": "2015-01-23",
-                    "registrationTotal": 10,
-                    "ticketType": "a2if4000002zPsIAAU",
-                    "ticketTypeName": "Basic Ticket"
-                },
-                {
-                    "FirstName": "Roseann",
-                    "LastName": "Mcfadden",
-                    "email": "roseann.mcfadden@snorus.com",
-                    "status": "Registered",
-                    "registrationDate": "2018-08-27",
-                    "registrationTotal": 10,
-                    "ticketType": "a2if4000002zPsIAAU",
-                    "ticketTypeName": "Basic Ticket"
-                },
-                {
-                    "FirstName": "Mcknight",
-                    "LastName": "Tyson",
-                    "email": "mcknight.tyson@cemention.com",
-                    "status": "Registered",
-                    "registrationDate": "2014-06-20",
-                    "registrationTotal": 10,
-                    "ticketType": "a2if4000002zPsIAAU",
-                    "ticketTypeName": "Basic Ticket"
-                },
-                {
-                    "FirstName": "Rose",
-                    "LastName": "Solis",
-                    "email": "rose.solis@harmoney.com",
-                    "status": "Registered",
-                    "registrationDate": "2015-12-09",
                     "registrationTotal": 10,
                     "ticketType": "a2if4000002zPsIAAU",
                     "ticketTypeName": "Basic Ticket"
@@ -481,36 +361,6 @@
                     "email": "jacobson.gibbs@rodeology.com",
                     "status": "Registered",
                     "registrationDate": "2015-01-23",
-                    "registrationTotal": 10,
-                    "ticketType": "a2if4000002zPsIAAU",
-                    "ticketTypeName": "Basic Ticket"
-                },
-                {
-                    "FirstName": "Roseann",
-                    "LastName": "Mcfadden",
-                    "email": "roseann.mcfadden@snorus.com",
-                    "status": "Registered",
-                    "registrationDate": "2018-08-27",
-                    "registrationTotal": 10,
-                    "ticketType": "a2if4000002zPsIAAU",
-                    "ticketTypeName": "Basic Ticket"
-                },
-                {
-                    "FirstName": "Mcknight",
-                    "LastName": "Tyson",
-                    "email": "mcknight.tyson@cemention.com",
-                    "status": "Registered",
-                    "registrationDate": "2014-06-20",
-                    "registrationTotal": 10,
-                    "ticketType": "a2if4000002zPsIAAU",
-                    "ticketTypeName": "Basic Ticket"
-                },
-                {
-                    "FirstName": "Rose",
-                    "LastName": "Solis",
-                    "email": "rose.solis@harmoney.com",
-                    "status": "Registered",
-                    "registrationDate": "2015-12-09",
                     "registrationTotal": 10,
                     "ticketType": "a2if4000002zPsIAAU",
                     "ticketTypeName": "Basic Ticket"
@@ -564,26 +414,6 @@
                     "email": "roseann.mcfadden@snorus.com",
                     "status": "Registered",
                     "registrationDate": "2018-08-27",
-                    "registrationTotal": 10,
-                    "ticketType": "a2if4000002zPsIAAU",
-                    "ticketTypeName": "Basic Ticket"
-                },
-                {
-                    "FirstName": "Mcknight",
-                    "LastName": "Tyson",
-                    "email": "mcknight.tyson@cemention.com",
-                    "status": "Registered",
-                    "registrationDate": "2014-06-20",
-                    "registrationTotal": 10,
-                    "ticketType": "a2if4000002zPsIAAU",
-                    "ticketTypeName": "Basic Ticket"
-                },
-                {
-                    "FirstName": "Rose",
-                    "LastName": "Solis",
-                    "email": "rose.solis@harmoney.com",
-                    "status": "Registered",
-                    "registrationDate": "2015-12-09",
                     "registrationTotal": 10,
                     "ticketType": "a2if4000002zPsIAAU",
                     "ticketTypeName": "Basic Ticket"
@@ -647,16 +477,6 @@
                     "email": "mcknight.tyson@cemention.com",
                     "status": "Registered",
                     "registrationDate": "2014-06-20",
-                    "registrationTotal": 10,
-                    "ticketType": "a2if4000002zPsIAAU",
-                    "ticketTypeName": "Basic Ticket"
-                },
-                {
-                    "FirstName": "Rose",
-                    "LastName": "Solis",
-                    "email": "rose.solis@harmoney.com",
-                    "status": "Registered",
-                    "registrationDate": "2015-12-09",
                     "registrationTotal": 10,
                     "ticketType": "a2if4000002zPsIAAU",
                     "ticketTypeName": "Basic Ticket"
