@@ -17,7 +17,7 @@
             "isPublished": false,
             "isMultiCurrency": false,
             "isFeatured": false,
-            "isActive": false,
+            "isActive": true,
             "imageUrl": "https://static.appvn.com/a/uploads/thumbnails/112015/mr-square_icon.png",
             "id": "a1if4000002zPsAAU",
             "eventObj": null,
